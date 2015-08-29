@@ -1,24 +1,24 @@
 快速搭建Web环境 Angularjs + Express3 + Bootstrap3
 ========================
 
-[快速搭建Web环境 Angularjs + Express3 + Bootstrap3](http://blog.fens.me/angularjs-express3-bootstrap3/)
+[快速搭建Web环境 Angularjs + Express3 + Bootstrap3]
 
 ## Install
 
 ```{bash}
-git clone https://github.com/bsspirit/angular-basic
-npm install
-bower install
+apt-get install git
+apt-get install node.js
+npm install bower
+git clone https://github.com/RockyLiys/angular-express3-bootstrap3.git
+source env.sh
 ```
 
 ## Running
 
 ```{bash}
-node app.js
+sh run.sh
 ```
 ## Author
-
-Blog: http://blog.fens.me
 
 ## License
 MIT
