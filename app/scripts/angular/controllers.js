@@ -2,6 +2,7 @@
 
 function WelcomeCtrl($scope){
     $scope.username = 'Conan_Z';
+<<<<<<< HEAD
 }
 
 function HttpgetCtrl($scope, $http){
@@ -21,4 +22,6 @@ function HttpgetCtrl($scope, $http){
         console.log(headers);
         console.log(config);
     });
+=======
+>>>>>>> 46d6bb774e300aa1de6f5ac96870e0359ff30a4f
 }
