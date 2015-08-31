@@ -11,6 +11,7 @@ apt-get install node.js
 npm install bower
 git clone https://github.com/RockyLiys/angular-express3-bootstrap3.git
 source env.sh
+mv bower_components ./app 
 ```
 
 ## Running
