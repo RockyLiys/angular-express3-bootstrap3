@@ -23,3 +23,9 @@ Rocky
 ## License
 MIT
 
+## Git
+```
+保存用户与密码
+## Set remote url
+git remote set-url origin https://github.com/*.git
+```
