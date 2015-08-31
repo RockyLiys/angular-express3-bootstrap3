@@ -27,7 +27,6 @@ MIT
 ```
 保存用户与密码
 git config --global credential.helper store
-```
-## Set remote url
+Set remote url
 git remote set-url origin https://github.com/*.git
 ```
